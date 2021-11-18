@@ -1,0 +1,8 @@
+body{
+    float: left;
+    height: auto;
+    width: auto;
+    margin: 5px;
+    color: black;
+    background: -webkit-radial-gradient(red, orange, blue, indigo, violet);
+}
